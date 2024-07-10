@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710704847 source:c:\users\burcu\desktop\c\algoritmalar\20010011066_odev2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
